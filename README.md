@@ -1,7 +1,7 @@
-# City Generator
+# SpacePlanner
 
 
-City Generator to narzędzie służące do generowania map miejskich o różnych cechach takich jak drogi, lasy, budynki, infrastruktura, chodniki i wiele więcej. Projekt ten umożliwia tworzenie wizualizacji pikselowej oraz potencjalnie w przyszłości 3D map miast w oparciu o różnorodne parametry wejściowe.
+SpacePlanner to narzędzie służące do generowania map miejskich o różnych cechach takich jak drogi, lasy, budynki, infrastruktura, chodniki i wiele więcej. Projekt ten umożliwia tworzenie wizualizacji pikselowej oraz potencjalnie w przyszłości 3D map miast w oparciu o różnorodne parametry wejściowe.
 
 ## Funkcje
 
