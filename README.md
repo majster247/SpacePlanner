@@ -23,7 +23,7 @@ SpacePlanner to narzędzie służące do generowania map miejskich o różnych c
 
 ## Autorzy
 
-- **[Majster247](www.github.com/majster247)** - Główny Twórca
+- **[Majster247](https://www.github.com/majster247)** - Główny Twórca
 
 ## Licencja
 
