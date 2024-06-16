@@ -21,10 +21,6 @@ SpacePlanner to narzędzie służące do generowania map miejskich o różnych c
 - **Szerokość Miasta (w km)**: Określa szerokość generowanej mapy miejskiej.
 - **Wysokość Miasta (w km)**: Określa wysokość generowanej mapy miejskiej.
 
-## Wymagania
-
-- SFML: Simple and Fast Multimedia Library.
-
 ## Autorzy
 
 - **[Majster247](www.github.com/majster247)** - Główny Twórca
