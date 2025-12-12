@@ -25,7 +25,7 @@ $(TARGET): $(OBJS)
 
 # Sprzątanie
 clean:
-	rm -f $(OBJS) $(TARGET)
+	rm -f $(OBJS) $(TARGET) *.ppm *.obj *.json
 
 # Skrót do rebuild
 rebuild: clean all
